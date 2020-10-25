@@ -1,0 +1,14 @@
+{
+    "mode": "typescript",
+    "packageName": "ds-lib",
+    "rootFiles": [
+        "/Users/daniel/Documents/design-system/ds-lib/dist/index.d.ts"
+    ],
+    "additionalImports": [],
+    "out": "code/",
+    "components": {
+        "Button": {
+            "ignore": false
+        }
+    }
+}
